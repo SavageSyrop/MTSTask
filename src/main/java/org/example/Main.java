@@ -1,13 +1,13 @@
 package org.example;
 
-import lombok.extern.slf4j.Slf4j;
+
 import org.example.enums.OutputType;
 import org.example.service.MegafonShopSmartphoneParser;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-@Slf4j
+
 public class Main {
 
 
